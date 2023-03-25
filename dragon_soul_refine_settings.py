@@ -45,3 +45,4 @@ dragon_soul_refine_info = {
  15 : default_refine_info,
  16 : default_refine_info,
 }
+
